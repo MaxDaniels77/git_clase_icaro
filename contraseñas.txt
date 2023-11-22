@@ -1,0 +1,2 @@
+nombre = danielcito
+contraseña = amo a mi hija
